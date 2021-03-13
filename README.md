@@ -1,4 +1,4 @@
-﻿# Spotify TIME MACHINE
+﻿# Spotify Time Machine
 
 *SPOTIFY TIME MACHINE*
 
